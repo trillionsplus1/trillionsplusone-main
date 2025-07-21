@@ -1,0 +1,11 @@
+2:I[9107,[],"ClientPageRoot"]
+3:I[2804,["145","static/chunks/145-29ccfac009db6ecc.js","427","static/chunks/app/admin/dashboard/page-f34e9ef4e42b6165.js"],"default",1]
+4:I[4707,[],""]
+5:I[6423,[],""]
+6:I[6631,["91","static/chunks/app/admin/layout-be43e18be02c0fd9.js"],"default",1]
+8:I[6563,["132","static/chunks/132-99e232c334cf0015.js","185","static/chunks/app/layout-b6cf0e466cd6a197.js"],"default",1]
+9:I[5292,["145","static/chunks/145-29ccfac009db6ecc.js","160","static/chunks/app/not-found-e66f0d36bd476f85.js"],"default"]
+7:{}
+0:["ujdLcule_UM5X1zAfjX1C",[[["",{"children":["admin",{"children":["dashboard",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",{"children":["admin",{"children":["dashboard",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{},"searchParams":{}},"Component":"$3"}],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","admin","children","dashboard","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","$L6",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","admin","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}],"params":"$7"}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ab62622366274568.css","precedence":"next","crossOrigin":"$undefined"}]],["$","$L8",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[]}],"params":"$7"}]],null],null],["$La",null]]]]
+a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}]]
+1:null
